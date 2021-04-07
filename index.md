@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Wei Wang's Homepage
 
-You can use the [editor on GitHub](https://github.com/we-wan/we-wan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of Prof. Theo Gevers and dr. Shaodi You. My research interests lie in computer vision and deep learning, particularly kinship relation recognition.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
 
-### Markdown
+**2019** : Take part in NEMO experiment on children and deception in [Nemo Science Live Program](https://www.nemosciencemuseum.nl/nl/wat-is-er-te-doen/activiteiten/science-live/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+_Wang, W., You, S., & Gevers, T. (2020, August). Kinship Identification through Joint Learning using Kinship Verification Ensembles. In European Conference on Computer Vision (pp. 613-628). Springer, Cham._ [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670613.pdf)]
 
-# Header 1
-## Header 2
-### Header 3
+_Han, Jian, Wei Wang, Sezer Karaoglu, Wei Zeng, and Theo Gevers. "Pose invariant age estimation of face images in the wild." Computer Vision and Image Understanding 202 (2021): 103123._ [[paper](https://www.sciencedirect.com/science/article/pii/S1077314220301430?casa_token=s9f31-8qf00AAAAA:uH2jSniDbEcmfLsM7ZFQMfGFcbfTFUp6KrUnq_R-dnTvvclwvvo3xV3SFzjYSTiORtFivkgbUQ)]
 
-- Bulleted
-- List
+_Ngo, L. M., Wang, W., Mandira, B., Karaoglu, S., Bouma, H., Dibeklioglu, H., & Gevers, T. (2021). Identity Unbiased Deception Detection by 2D-to-3D Face Reconstruction. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 145-154)._ [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.html)]
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/we-wan/we-wan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
