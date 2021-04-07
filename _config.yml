@@ -2,6 +2,6 @@ title: Wei Wang
 logo: /img/logo.jpg
 description: PhD Candidate in UvA
 show_downloads: true
-google_analytics: 1
+google_analytics: 
 theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
+
