@@ -8,6 +8,8 @@ I am currently a PhD candidate in Computer Vision Group, Informatics Institute, 
 
 ### Publications
 
+Wang, W., You, S., Karaoglu, S., & Gevers, T. (2023). A survey on kinship verification. Neurocomputing, 525, 1-28. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222015272)][[github](https://github.com/we-wan/kin_sv)]
+
 _Wang, W., You, S., & Gevers, T. (2020, August). Kinship Identification through Joint Learning using Kinship Verification Ensembles. In European Conference on Computer Vision (pp. 613-628). Springer, Cham._ [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670613.pdf)][[project cite](https://we-wan.github.io/JLNet/)][[github](https://github.com/we-wan/JLNet)]
 
 _Han, Jian, Wei Wang, Sezer Karaoglu, Wei Zeng, and Theo Gevers. "Pose invariant age estimation of face images in the wild." Computer Vision and Image Understanding 202 (2021): 103123._ [[paper](https://www.sciencedirect.com/science/article/pii/S1077314220301430?casa_token=s9f31-8qf00AAAAA:uH2jSniDbEcmfLsM7ZFQMfGFcbfTFUp6KrUnq_R-dnTvvclwvvo3xV3SFzjYSTiORtFivkgbUQ)]
