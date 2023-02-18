@@ -1,6 +1,6 @@
 ## Wei Wang's Homepage
 
-I am currently a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Shaodi You](https://youshaodi.github.io/). My research interests lie in computer vision and deep learning, particularly kinship relation recognition.
+I am currently a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/) and [dr. Shaodi You](https://youshaodi.github.io/). My research interests lie in computer vision and deep learning, particularly face-based biometric information learning. Now I am doing the AutoML for Autonomous Driving.
 
 ### News
 
