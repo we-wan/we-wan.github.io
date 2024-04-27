@@ -18,3 +18,6 @@ _Han, Jian, Wei Wang, Sezer Karaoglu, Wei Zeng, and Theo Gevers. "Pose invariant
 _Ngo, L. M., Wang, W., Mandira, B., Karaoglu, S., Bouma, H., Dibeklioglu, H., & Gevers, T. (2021). Identity Unbiased Deception Detection by 2D-to-3D Face Reconstruction. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 145-154)._ [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.html)]
 
 Wang, W. Vision based kinship recognition [[book](https://dare.uva.nl/search?identifier=7e585ad4-0a02-43b5-9ade-753609d615a1)]
+
+### CSDN
+[wangweiwells](https://blog.csdn.net/wangweiwells?type=blog)
