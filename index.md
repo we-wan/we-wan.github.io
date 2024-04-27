@@ -7,6 +7,7 @@ I am currently a PhD candidate in Computer Vision Group, Informatics Institute, 
 **2019** : Take part in NEMO experiment on children and deception in [Nemo Science Live Program](https://www.nemosciencemuseum.nl/nl/wat-is-er-te-doen/activiteiten/science-live/)
 
 ### Publications
+Wang, W., You, S., Karaoglu, S., & Gevers, T. (2024). Kinship similarity for open sets. Pattern Recognition, 148, 110123.[[paper](https://www.sciencedirect.com/science/article/pii/S0031320323008208?casa_token=2mce6rGKeOgAAAAA:aFLW7_S_sABiM1VJ4nnNetd5mO_-jcWKmjkhK1T5D_FZLpKiDvNOdSatEpEtrZWtnJsxQqV3-wU)]
 
 Wang, W., You, S., Karaoglu, S., & Gevers, T. (2023). A survey on kinship verification. Neurocomputing, 525, 1-28. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222015272)][[github](https://github.com/we-wan/kin_sv)]
 
